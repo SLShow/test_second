@@ -1,2 +1,1 @@
 #include<iosteam>
-#include<algorithm>
