@@ -1,5 +1,5 @@
 ﻿  test.cpp
-e:\c++程序\西电机试练习\冒泡排序\冒泡排序\test.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+e:\github\test_second\冒泡排序\冒泡排序\test.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-  冒泡排序.vcxproj -> E:\C++程序\西电机试练习\冒泡排序\Debug\冒泡排序.exe
-  冒泡排序.vcxproj -> E:\C++程序\西电机试练习\冒泡排序\Debug\冒泡排序.pdb (Full PDB)
+  冒泡排序.vcxproj -> E:\github\test_second\冒泡排序\Debug\冒泡排序.exe
+  冒泡排序.vcxproj -> E:\github\test_second\冒泡排序\Debug\冒泡排序.pdb (Full PDB)

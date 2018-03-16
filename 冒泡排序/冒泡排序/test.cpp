@@ -2,6 +2,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+//i think that i should test github how to control a project
+
 const int N = 5;
 int a[101];
 
